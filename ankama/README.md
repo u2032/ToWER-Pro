@@ -18,4 +18,3 @@
   
 * [Installer Windows .exe 32-bits](https://github.com/u2032/ToWER-Pro/releases/download/v2018.1/AnkamaTower-2018.1-installer-windows-32bits.exe)
 * [Standalone Windows .zip 32-bits](https://github.com/u2032/ToWER-Pro/releases/download/v2018.1/AnkamaTower-2018.1-standalone-windows-32bits.zip)
-</details>
