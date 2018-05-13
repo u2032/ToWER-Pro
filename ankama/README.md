@@ -11,3 +11,11 @@
 * [Standalone Windows .zip](https://github.com/u2032/ToWER-Pro/releases/download/v2018.1/AnkamaTower-2018.1-standalone-windows.zip)
 * [Standalone Linux .tar.gz](https://github.com/u2032/ToWER-Pro/releases/download/v2018.1/AnkamaTower-2018.1-standalone-linux.tar.gz)
 * [Standalone MacOS .zip](https://github.com/u2032/ToWER-Pro/releases/download/v2018.1/AnkamaTower-2018.1-standalone-macos.zip)
+
+## More versions
+<details>
+<summary>32-bits</summary>
+  
+* [Installer Windows .exe 32-bits](https://github.com/u2032/ToWER-Pro/releases/download/v2018.1/AnkamaTower-2018.1-installer-windows-32bits.exe)
+* [Standalone Windows .zip 32-bits](https://github.com/u2032/ToWER-Pro/releases/download/v2018.1/AnkamaTower-2018.1-standalone-windows-32bits.zip)
+</details>
